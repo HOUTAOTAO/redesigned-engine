@@ -1,2 +1,12 @@
-# redesigned-engine
-one by one
+
+vue
+vue-router
+vuex
+axios
+vant
+////////////
+express
+mysql
+
+
+
